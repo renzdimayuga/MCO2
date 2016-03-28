@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Renzo Dimayuga/Documents/GitHub/GAMEDEV_Friendzone/Assets/friendzone.unity
+  isLoaded: 1
+  isActive: 1
